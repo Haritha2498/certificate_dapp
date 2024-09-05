@@ -10,6 +10,7 @@ const Home = () => {
   const [idno, setIdno] = useState('');
 
   const [res, setres] = useState("");
+  
 
   const navigate = useNavigate();
   const provider = new BrowserProvider(window.ethereum);
