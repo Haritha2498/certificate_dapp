@@ -17,17 +17,29 @@ The purpose of CertLedger DApp is to provide a secure, transparent, and reliable
 
 Clone the Project and change into the directory
 ```bash
-git clone https:/
-cd
-```
-Install dependencies
-```bash
-npm install
-```
+git@github.com:Haritha2498/certificate_dapp.git
 
-Run the application
+```
+open the folder in VScode<br>
+In terminal ,Install dependencies
+
 ```bash
-npm 
+npm init
+npm i -D hardhat
+```
+To initailize hardhat nodes
+```bash
+npx hardhat node
+
+```
+To Deploy,in another terminal
+```bash
+npx hardhat ignition deploy ignition/modules/Cert.js
+```
+To Run the application
+```bash
+cd certiui
+npm run dev
 ```
 
 ## :video_camera: Demo ##
