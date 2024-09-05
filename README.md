@@ -45,4 +45,4 @@ Commit your Changes (git commit -m '<feature_name>_added')
 Push to the Branch (git push origin feature/<feature_name>)
 Open a Pull Request
 ## :page_with_curl: License ##
-This project is licensed under the MIT license - see the [LICENSE.md] (LICENSE.md) file for details.
+This project is licensed under the MIT license - see the [LICENSE.md] (LICENSE) file for details.
