@@ -31,7 +31,7 @@ npm start
 ```
 
 ## :video_camera: Demo ##
-Demo
+![demo veido](https://github.com/Haritha2498/certificate_dapp/blob/main/certiui/src/assets/images/certidapp%20YouTube%20Thumbnail.png)
 
 
 ## :ribbon: Contributing ##
