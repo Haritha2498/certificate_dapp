@@ -27,7 +27,7 @@ npm install
 
 Run the application
 ```bash
-npm start
+npm 
 ```
 
 ## :video_camera: Demo ##
