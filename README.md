@@ -27,6 +27,14 @@ In terminal ,Install dependencies
 npm init
 npm i -D hardhat
 ```
+In [hardhat.config.js](https://github.com/Haritha2498/certificate_dapp/blob/main/hardhat.config.js) file,add your private key across the accounts section in this code;
+
+```bash
+infura:{
+      url:"https://sepolia.infura.io/v3/66d60f103eac4256995259d73ede2b51",
+      accounts:[""]
+    },
+```
 To initailize hardhat nodes
 ```bash
 npx hardhat node
