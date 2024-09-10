@@ -52,7 +52,7 @@ npm run dev
 
 ## :video_camera: Demo ##
 Watch demo vedio:<br>
-<a href="https://drive.google.com/file/d/1wAh-dt4NXsVq_II06uMMLtBwz4E0gYmI/view?usp=sharing">
+<a href="https://youtu.be/RXj-0NdUiro">
     <img src="https://github.com/Haritha2498/certificate_dapp/blob/main/certiui/src/assets/images/certidapp%20YouTube%20Thumbnail.png" alt="demo video" width="200" />
 </a>
 
